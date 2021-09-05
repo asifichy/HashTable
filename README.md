@@ -1,7 +1,7 @@
 # HashTable
 Implementation of chained hash table using C
 
-#This is a projec of a data structure. This project is done by me and my fellow project member. Using C we created the hash table. We used array of a linked list (singly linked list). 
+#This is a project of a data structure. This project is done by me and my fellow project member. Using C we created the hash table. We used array of a linked list (singly linked list). 
 
 #What is hashing? 
 Hashing is a technique or process of mapping keys, values into the hash table by using a hash function. It is done for faster access to element. The efficiency of mapping depends on the efficiency of the hash function used. In a hash table, data is stored in an array format, where each data value has its own unique index value. Access of data becomes very fast if we know the index of the desired data.
